@@ -1,0 +1,6 @@
+.work-container {
+    grid-area: work;
+    background-color: var(--blue-numbers);
+    width: 20%;
+    height: 100%;
+}

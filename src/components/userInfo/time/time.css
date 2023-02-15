@@ -1,0 +1,20 @@
+.time {
+    background-color: var(--blue-numbers);
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    position: absolute;
+    width: 100%;
+    top: 95%;
+}
+
+.timeLine {
+    list-style-type: none;
+    padding: 3rem 3rem 2rem 3rem;
+    font-size: 1.25rem;
+    color: var(--blue-pale);
+}
+
+li + li {
+    margin-top: 2rem;
+
+}

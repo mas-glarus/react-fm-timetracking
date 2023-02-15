@@ -1,0 +1,26 @@
+.personalInfo {
+    background-color: var(--blue);
+    padding: 3rem 0 6rem 3rem;
+    border-radius: 1rem;
+    position: relative;
+    z-index: 1;
+    padding-right: 3rem;
+}
+
+.personalInfo img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.personalInfo p {
+    margin: 3rem 0 0 0;
+    font-weight: var(--fontLight);
+}
+
+.personalInfo h1 {
+    font-weight: var(--fontLight);
+    font-size: 3rem;
+    margin-top: 0rem;
+}
